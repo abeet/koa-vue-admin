@@ -1,0 +1,23 @@
+{
+  "name": "koa-vue-admin",
+  "version": "1.0.0",
+  "description": "基于 koajs+vue 的单页面后台管理系统脚手架的模板",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abeet/koa-vue-admin.git"
+  },
+  "keywords": [
+    "zcf",
+    "admin",
+    "template"
+  ],
+  "author": "http://www.zving.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abeet/koa-vue-admin/issues"
+  },
+  "homepage": "https://github.com/abeet/koa-vue-admin#readme"
+}
